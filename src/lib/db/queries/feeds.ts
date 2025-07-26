@@ -11,8 +11,8 @@ export async function createFeed(
     .insert(feeds)
     .values({
       name: feedName,
-      url,
-      userId,
+      url: url,
+      userId: userId,
     })
     .returning();
 
