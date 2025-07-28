@@ -8,6 +8,27 @@
       "when": 1753560453801,
       "tag": "0000_eager_daimon_hellstrom",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1753666312567,
+      "tag": "0001_closed_wasp",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753670357441,
+      "tag": "0002_adorable_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1753670948322,
+      "tag": "0003_blushing_sentinel",
+      "breakpoints": true
     }
   ]
 }
